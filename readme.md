@@ -4,9 +4,9 @@
    
     * Run following command in the root directory
 
-    ```
-    docker-compose up
-    ```
+      ```
+      docker-compose up
+      ```
     * open localhost:8080 in browser, you should see jenkins up and running and it is asking for key.
 
     * run following command to get the key
@@ -19,7 +19,7 @@
 
 2.  Using docker commands
 
-      jenkins-setup.sh contains all docker commands to bring jenkins up. you just need to run following command.
+      jenkins-setup.sh contains all docker commands to bring jenkins up. You just need to run following command.
           
       ```
       bash jenkins-setup.sh
